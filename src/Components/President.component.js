@@ -4,7 +4,8 @@ class President extends React.Component {
   render() {
     return (
       <div>
-        President
+        <button >Get Data</button>
+        <button>Clear</button>
       </div>
     );
   }
